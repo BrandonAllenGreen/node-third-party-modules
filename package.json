@@ -1,0 +1,22 @@
+{
+  "name": "third-party-modules",
+  "version": "1.0.0",
+  "description": "For this exercise we are going to use a popular Node.js module: chalk",
+  "main": "flag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonAllenGreen/node-third-party-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonAllenGreen/node-third-party-modules/issues"
+  },
+  "homepage": "https://github.com/BrandonAllenGreen/node-third-party-modules#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
